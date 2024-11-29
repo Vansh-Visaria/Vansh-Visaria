@@ -1,11 +1,6 @@
 <h1 align="center">Hi, I'm Vansh Visaria<br>Welcome to my corner of GitHub! Let’s pull our ideas together, merge our creativity, and build something extraordinary!</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Defender of the Digital Realm </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vansh-Visaria&label=Profile%20views&color=brightgreen&style=flat" alt="Vansh-Visaria" /> 
-  <img src="https://img.shields.io/github/followers/Vansh-Visaria?label=Follow&style=social" alt="Vansh-Visaria" />
-</p>
-
 ---
 
 ### 🌌 About Me
@@ -41,11 +36,12 @@ Certified Ethical Hacker (CEH)
 - **[Personalised IP-Logger    ](#)** - 🔐 A handy tool that allows to track IP address and track locations, provides IP lookup and lets you check what is my ip
 ---
 
-### 📈 GitHub Stats
+### 📈 Profile Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vansh-Visaria&show_icons=true&theme=tokyonight" alt="Vansh-Visaria" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Visaria&theme=tokyonight" alt="Vansh-Visaria" />
+  <img width="48%" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3491570" style='border:none;' alt="Vansh-Visaria" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vansh-Visaria&show_icons=true&theme=tokyonight" alt="Vansh-Visaria" />
 </p>
 
 ---
