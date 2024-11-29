@@ -41,7 +41,7 @@ Certified Ethical Hacker (CEH)
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Visaria&theme=tokyonight" alt="Vansh-Visaria" />
   <br>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3491570" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/ItsWhiteHawk.png" alt="Your Image Badge" />
   <br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vansh-Visaria&show_icons=true&theme=tokyonight" alt="Vansh-Visaria" />
 </p>
