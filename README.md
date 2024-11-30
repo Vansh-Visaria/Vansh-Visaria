@@ -36,12 +36,10 @@ Certified Ethical Hacker (CEH)
 - **[Personalised IP-Logger    ](#)** - 🔐 A handy tool that allows to track IP address and track locations, provides IP lookup and lets you check what is my ip
 ---
 
-### 📈 Profile Stats
+### 📈 Github Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Visaria&theme=tokyonight" alt="Vansh-Visaria" />
-  <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/ItsWhiteHawk.png" alt="Your Image Badge" />
   <br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vansh-Visaria&show_icons=true&theme=tokyonight" alt="Vansh-Visaria" />
 </p>
