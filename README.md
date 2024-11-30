@@ -34,15 +34,6 @@ Certified Ethical Hacker (CEH)
 
 - **[Digital Forensics Toolkit ](#)** - 🚓 A comprehensive tool for forensic analysis and image processing 
 - **[Personalised IP-Logger    ](#)** - 🔐 A handy tool that allows to track IP address and track locations, provides IP lookup and lets you check what is my ip
----
-
-### 📈 Github Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Visaria&theme=tokyonight" alt="Vansh-Visaria" />
-  <br>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vansh-Visaria&show_icons=true&theme=tokyonight" alt="Vansh-Visaria" />
-</p>
 
 ---
 
