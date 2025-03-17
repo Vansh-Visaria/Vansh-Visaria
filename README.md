@@ -18,7 +18,7 @@ Certified Ethical Hacker (CEH)
 ---
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)  
 - **API & RESTful Services:** REST API  
 - **Database Management:** MySQL
 
