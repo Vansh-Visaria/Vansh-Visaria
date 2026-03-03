@@ -35,6 +35,8 @@
 
 ###  Latest Projects
 
+- **[FortiChain: Physical Access Incident Response  ](#)** - A EDR for physical space that just as Endpoint Detection and Response secures IT environments, FortiChain integrates detection, investigation, and automated response for physical access security incidents
+- **[HackerZone - CTF Playground  ](#)** - A Capture The Flag website featuring various security challenges aimed at testing penetration testing and ethical hacking skills. Specifically designed for beginners to learn hands-on security concepts
 - **[Digital Forensics Toolkit ](#)** -  A comprehensive tool for forensic analysis and image processing 
 - **[Personalised IP-Logger    ](#)** -  A handy tool that allows to track IP address and track locations, provides IP lookup and lets you check what is my ip
 
