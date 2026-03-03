@@ -3,47 +3,51 @@
 
 ---
 
-### 🌌 About Me
+###  About Me
 
-- 👨‍💻 I’m a **cybersecurity student** dedicated to safeguarding **digital assets and mitigating threats** in today’s ever-evolving landscape.
-- 🔐 Exploring the intersection of **AI, IoT, and Cybersecurity**
-- 🧩 Passionate about **open-source contributions** and solving **real-world security issues**
-- 🚀 Currently delving into **legal and ethical considerations** as I prepare for a **dynamic career in cybersecurity**.
+-  I’m a **cybersecurity student** dedicated to safeguarding **digital assets and mitigating threats** in today’s ever-evolving landscape.
+-  Exploring the intersection of **AI, Physical & IoT, Blockchain and Cybersecurity**
+-  Passionate about **open-source contributions** and solving **real-world security issues**
+-  Currently delving into **legal and ethical considerations** as I prepare for a **dynamic career in cybersecurity**.
 
 ---
-### 📚 Certifications:
+###  Certifications:
 
 Certified Ethical Hacker (CEH)
+Certified Red Team Analyst (CRTA)
+Certified Network Security Practitioner (CNSP)
+Cyber Security Analyst (C3SA)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)  
 - **API & RESTful Services:** REST API  
 - **Database Management:** MySQL
 
-#### 🛠️ Tools
+####  Tools
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark) ![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap) ![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit) ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burp-suite)  
 
-#### 🛠️ Operating Systems
+####  Operating Systems
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux) ![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 
 ---
 
-### 🏆 Latest Projects
+###  Latest Projects
 
-- **[Digital Forensics Toolkit ](#)** - 🚓 A comprehensive tool for forensic analysis and image processing 
-- **[Personalised IP-Logger    ](#)** - 🔐 A handy tool that allows to track IP address and track locations, provides IP lookup and lets you check what is my ip
+- **[Digital Forensics Toolkit ](#)** -  A comprehensive tool for forensic analysis and image processing 
+- **[Personalised IP-Logger    ](#)** -  A handy tool that allows to track IP address and track locations, provides IP lookup and lets you check what is my ip
 
 ---
 
-### 🌍 Community Engagement:
-I actively participate in cybersecurity forums and contribute to open-source projects.
+###  Community Engagement:
+I actively contribute in cybersecurity forums and contribute to open-source projects.
 I believe in the power of collaboration and knowledge sharing to build a safer digital environment.
+I actively participate in various Global Hackathons and Capture the Flag (CTF) events.
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 I’m always open to discussing cybersecurity trends, sharing insights, and exploring collaboration opportunities. Feel free to reach out!
 
@@ -53,6 +57,6 @@ I’m always open to discussing cybersecurity trends, sharing insights, and expl
 ---
 
 <p align="center">
-  Let's innovate, learn, and create together !!!
+  Let's innovate, learn, collaborate, create and team-up together !!!
 </p>
 
