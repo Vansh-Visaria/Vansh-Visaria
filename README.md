@@ -13,13 +13,10 @@
 ---
 ###  Certifications:
 
-Certified Ethical Hacker (CEH)
--
-Certified Red Team Analyst (CRTA)
--
-Certified Network Security Practitioner (CNSP)
--
-Cyber Security Analyst (C3SA)
+- Certified Ethical Hacker (CEH)
+- Certified Red Team Analyst (CRTA)
+- Certified Network Security Practitioner (CNSP)
+- Cyber Security Analyst (C3SA)
 
 ---
 
